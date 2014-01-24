@@ -1,4 +1,4 @@
 MyGlass
 =======
 
-My experiments in Google Glass
+My experiments in Google Glass (and Android Studio)
